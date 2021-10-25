@@ -1,6 +1,6 @@
 const getTheTitles = require('./getTheTitles')
 
-describe('getTheTitles', () => {
+  describe('getTheTitles', () => {
     const books = [
       {
         title: 'Book',
